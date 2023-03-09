@@ -1,0 +1,24 @@
+body {
+  background-color: #3d9eff;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.text {
+  font-size: 30px;
+  font-family: "Forum", cursive;
+  font-family: "Lato", sans-serif;
+  font-family: "League Spartan", sans-serif;
+}
+.text:hover {
+  color: rgb(204, 255, 76);
+}
+button {
+  border: none;
+  background-color: #3d9eff;
+}
